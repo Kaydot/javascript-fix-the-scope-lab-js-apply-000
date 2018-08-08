@@ -40,7 +40,7 @@ theFunk = function funkyFunction() {
   return "FUNKY!";
   }  
   
- return funky;
+ retufurn nky;
   
 }
 
